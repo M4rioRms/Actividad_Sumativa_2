@@ -1,2 +1,2 @@
 salario = int(input("Ingresa tu salario bruto: "))
-print("Tu salario neto es:", salario - (salario // 10))
+print("Tu salario neto es:", salario - (salario // 16))
